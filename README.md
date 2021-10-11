@@ -13,6 +13,7 @@ A nginx reverse-proxy sidecar for proxying an arbitrary local service to interne
 ## Future
 
 - add boilerplate for nginx load balancing
+- add boilerplate for nginx TLS management
 
 
 ## Resources
