@@ -10,6 +10,11 @@ A nginx reverse-proxy sidecar for proxying an arbitrary local service to interne
 - Proxy & host a dockerized service with no adjustments required from the service
 
 
+## Future
+
+- add boilerplate for nginx load balancing
+
+
 ## Resources
 
 This is based on aws ecs nginx sidecars, with only minor modifications.
