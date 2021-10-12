@@ -5,7 +5,9 @@ A nginx reverse-proxy sidecar for proxying an arbitrary local service to interne
 
 ## Usage [WIP]
 
-1. Copy this directory into your project root directory as `/nginx_sidecar/`
+Get the image onto your local and build into your service as needed. It is a generic proxy.
+
+There is not guidance yet on shipping multiple nginx reverse proxies. In the future, containers can be paramterized on the unix socket to allow for many proxy sidecars per machine, as needed.
 
 
 ## Goals
