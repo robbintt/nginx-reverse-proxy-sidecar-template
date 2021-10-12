@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t reverse-proxy ./nginx
+docker build -t reverse-proxy .

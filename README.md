@@ -3,6 +3,11 @@
 A nginx reverse-proxy sidecar for proxying an arbitrary local service to internet traffic.
 
 
+## Usage [WIP]
+
+1. Copy this directory into your project root directory as `/nginx`
+
+
 ## Goals
 
 - Use nginx container as generic reverse proxy for all services
