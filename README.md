@@ -5,7 +5,7 @@ A nginx reverse-proxy sidecar for proxying an arbitrary local service to interne
 
 ## Usage [WIP]
 
-1. Copy this directory into your project root directory as `/nginx`
+1. Copy this directory into your project root directory as `/nginx_sidecar/`
 
 
 ## Goals

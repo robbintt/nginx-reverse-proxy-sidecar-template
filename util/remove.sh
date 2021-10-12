@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker rmi reverse-proxy
+docker rmi nginx-reverse-proxy
 
 docker images

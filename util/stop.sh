@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker stop myreverseproxy
+docker stop nginx-reverse-proxy
 docker ps -a
